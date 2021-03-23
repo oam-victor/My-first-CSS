@@ -1,5 +1,5 @@
 # My-first-CSS
-Instagram Page Model
+Instagram Page Model With Responsive Design
 
 Logbook
 
